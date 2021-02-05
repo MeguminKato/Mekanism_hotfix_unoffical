@@ -6,7 +6,7 @@ If have more bugs,please post to issues,I'll take a favour
 
 # FIX LOG #
 
-fix industrialTrubine can input Water or some liquid with another mod's pipe(now only accept water)
+fix industrialTrubine can input Water or some liquid with another mod's pipe(now only accept steam)
 
 fix EnergyMatrix use IC2 cable(EnergyNetBug) connecting valve as a loop to fully charge the Matrix(now IC2Cable can't connect the MatrixValve which in "Input Mode")
 
